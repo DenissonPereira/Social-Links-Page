@@ -1,0 +1,12 @@
+
+:root {
+    --cor_transparente: rgba(255, 255, 255, 0.034);
+    --cor_transparente2: rgba(53, 46, 54, 0.288);
+    --cor_transparente3: rgba(23, 77, 179, 0.288);
+    --cor_transparente4: rgba(148, 68, 158, 0.288);
+    --cor_transparente5: rgba(255, 255, 255, 0.288);
+    --cor_transparente6: rgba(82, 179, 17, 0.288);
+    --cor_branco: white;
+    --desfoque: blur(0px);
+    --desfoque2: blur(0px);
+}
