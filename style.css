@@ -320,3 +320,64 @@ a {
 
 }
 
+@media (width <= 750px) {
+    .insta .img_insta {
+        display: none;
+    }
+
+    .whats .whats_qr {
+        display: none;
+    }
+
+    .principal {
+        height: 100vh;
+        width: 100%;
+        margin: 0;
+        position: relative;
+    }
+
+    .principal video {
+        width: 10%;
+    }
+    main {
+        width: 10%;
+    }
+    .image {
+        width: 80px;
+        height: 95.89px;
+        border: 2px solid;
+    }
+    main h1 {
+        font-size: 25px;
+        position: absolute;
+        text-align: center;
+        top: 18%;
+        color: white;
+    }
+    .git {
+        width: 200px;
+        height: 50px;
+    }
+    .link {
+        width: 200px;
+        height: 50px;
+    }
+    .insta {
+        width: 200px;
+        height: 50px;
+    }
+    .email {
+        width: 200px;
+        height: 50px;
+    }
+    .whats {
+        width: 200px;
+        height: 50px;
+    }
+
+    .whats a img {
+        right: 110%;
+    
+    }
+}
+
